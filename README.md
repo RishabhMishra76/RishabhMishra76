@@ -1,3 +1,9 @@
+[![Actions Status](https://github.com/RishabhMishra76/RishabhMishra76/workflows/wakatime-stats/badge.svg)](https://github.com/RishabhMishra76/RishabhMishra76/actions)
+[![Actions Status](https://github.com/RishabhMishra76/RishabhMishra76/workflows/update-gh-activity/badge.svg)](https://github.com/RishabhMishra76/RishabhMishra76/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=RishabhMishra76.RishabhMishra76)
+
+
+
 <a target="_blank" href="https://RishabhMishra76.github.io/"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 
 # Rishabh Mishra
@@ -51,3 +57,59 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RishabhMishra76&theme=synthwave&show_icons=true" alt="RishabhMishra76" /> </h1>
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.0%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    90 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+🌆 Daytime    559 commits    █████████░░░░░░░░░░░░░░░░   37.34% 
+🌃 Evening    568 commits    █████████░░░░░░░░░░░░░░░░   37.94% 
+🌙 Night      280 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.7%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       243 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
+Tuesday      260 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
+Wednesday    284 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
+Thursday     131 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Friday       206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+Saturday     218 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Sunday       155 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.35%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+<!--END_SECTION:waka-->
+
+
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=RishabhMishra76&show_icons=true&hide_border=true)
+
+
