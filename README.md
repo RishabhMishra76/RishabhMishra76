@@ -1,6 +1,5 @@
 [![Actions Status](https://github.com/RishabhMishra76/RishabhMishra76/workflows/wakatime-stats/badge.svg)](https://github.com/RishabhMishra76/RishabhMishra76/actions)
 [![Actions Status](https://github.com/RishabhMishra76/RishabhMishra76/workflows/update-gh-activity/badge.svg)](https://github.com/RishabhMishra76/RishabhMishra76/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=RishabhMishra76.RishabhMishra76)
 
 
 
