@@ -1,6 +1,7 @@
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 
 <a target="_blank" href="https://RishabhMishra76.github.io/"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
-
 # Rishabh Mishra
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mishrarishabh76@gmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
