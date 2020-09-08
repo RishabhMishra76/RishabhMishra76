@@ -57,11 +57,19 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RishabhMishra76&theme=synthwave&show_icons=true" alt="RishabhMishra76" /> </h1>
 
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
+2. ❗️ Opened issue [#73](https://github.com//ashutosh1919/masterPortfolio/issues/73) in [ashutosh1919/masterPortfolio](https://github.com//ashutosh1919/masterPortfolio)
+3. ❗️ Opened issue [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
+4. ❗️ Opened issue [#38](https://github.com//Liberxue/liberxue.github.io/issues/38) in [Liberxue/liberxue.github.io](https://github.com//Liberxue/liberxue.github.io)
+5. ❗️ Opened issue [#5](https://github.com//saragong/hello/issues/5) in [saragong/hello](https://github.com//saragong/hello)
+<!--END_SECTION:activity-->
+
 <!--START_SECTION:waka-->
 <br>
-
-
-  <img src="https://github.com/RishabhMishra76/RishabhMishra76/blob/master/images/codeStats.svg" alt="My Coding ACtivity"/>
  
  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.0%20million%20lines%20of%20code-blue)
