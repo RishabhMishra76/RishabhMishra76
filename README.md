@@ -59,6 +59,12 @@ I love to work with new technologies and playing with Data and AI.🤖
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RishabhMishra76&theme=synthwave&show_icons=true" alt="RishabhMishra76" /> </h1>
 
 <!--START_SECTION:waka-->
+<br>
+
+
+  <img src="https://github.com/RishabhMishra76/RishabhMishra76/blob/master/images/codeStats.svg" alt="My Coding ACtivity"/>
+ 
+ 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
