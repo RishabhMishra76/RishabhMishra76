@@ -4,19 +4,17 @@
 <a target="_blank" href="https://RishabhMishra76.github.io/"><img width="550" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU"></a>
 # Rishabh Mishra
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mishrarishabh76@gmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mishrarishabh76@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Durwithrishabh&suffix=%20Followers)](https://twitter.com/urwithrishabh)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rishabh-mishra-81397b152/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mishrarishabh76/)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@rishabhmishra_76225)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rishabhmishra76)
 
 
-:wave: Hi there, My name is Rishabh Mishra.😀 I'm 23 years old, I'm a self-taught Data Scientist.
-I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
-Currently, I completed Undergraduate in CSE from :india:. 
-I'm interested in doing research on text and image related problems. 
-I love to work with new technologies and playing with Data and AI.🤖
+:wave: Hi there, My name is Rishabh Mishra.😀 I'm 2+ years experienced frontend developer.
+I've profound knowledge in React+Redux development. 
+I completed Undergraduate in CSE from :india:. 
+I'm interested in backend and full stack oppurtunities. 
+I love to work with new technologies and making awesome things.🤖
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RishabhMishra76" alt="RishabhMishra76" /> </p>
 
@@ -24,11 +22,11 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 ```json
 {
-   "languages": ["Python", "Java"],
-   "backend": ["Django","Flask"],
-   "frontend": ["html", "css"],
-   "databases": ["mysql","postgresql"],
-   "ai framework":["Keras","Scikit-learn"],
+   "languages": ["JavaScript", "Java", "Python"],
+   "backend": ["Django", "Flask", "Node.js"],
+   "frontend": ["HTML", "CSS"],
+   "databases": ["mysql", "postgresql", "MongoDB"],
+   "libraries":["React.js", "Redux", "D3.js", "MUI"],
    "experimenting": ["Django", "Heroku"]
 }
 ```
