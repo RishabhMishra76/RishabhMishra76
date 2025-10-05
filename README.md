@@ -9,10 +9,10 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mishrarishabh76/)
 
 
-:wave: Hi there, My name is Rishabh Mishra.😀 I'm 2+ years experienced frontend developer.
+:wave: Hi there, My name is Rishabh Mishra.😀 I'm 4+ years experienced frontend developer.
 I've profound knowledge in React+Redux development. 
 I completed Undergraduate in CSE from :india:. 
-I'm interested in backend and full stack oppurtunities. 
+I'm also interested in backend and full stack oppurtunities. 
 I love to work with new technologies and making awesome things.🤖
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RishabhMishra76" alt="RishabhMishra76" /> </p>
@@ -24,9 +24,9 @@ I love to work with new technologies and making awesome things.🤖
    "languages": ["JavaScript", "Java", "Python"],
    "backend": ["Django", "Flask", "Node.js"],
    "frontend": ["HTML", "CSS"],
-   "databases": ["mysql", "postgresql", "MongoDB"],
+   "databases": ["mysql", "MongoDB"],
    "libraries":["React.js", "Redux", "D3.js", "MUI"],
-   "experimenting": ["Django", "Heroku"]
+   "experimenting": ["Django"]
 }
 ```
 ## :tada: Achievements
